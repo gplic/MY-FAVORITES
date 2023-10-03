@@ -1,0 +1,30 @@
+h1{
+    text-decoration: underline;
+    text-decoration-color: rgb(136, 33, 33);
+    margin-bottom: 50PX;
+    text-align: center;
+}
+body{
+    width: 700px;
+    margin: 25px auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 25PX 75PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html{
+    background-color: brown;
+}
+IMG{
+    border-radius: 10PX;
+}
+H2{
+    color: rgb(75, 0, 0);
+}
+A{
+    color: rgb(160, 0, 0);
+}
+A:hover{
+    color: rgb(75, 0, 0);
+    font-weight: bold;
+}
